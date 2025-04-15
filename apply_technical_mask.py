@@ -37,7 +37,7 @@ technical_table = pd.DataFrame(
     },
     index=["land_cover_type", "max_slope", "is_settlement", "max_depth"],
 ).T
-print(technical_table)
+print("Applying technical mask based on the following table...\n", technical_table)
 
 
 def get_CoverTypeCode(technology):

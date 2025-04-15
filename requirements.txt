@@ -1,6 +1,5 @@
-xarray
-rioxarray
-pandas
-geopandas
-# hvplot
-richdem
+xarray==2025.3.1
+rioxarray==0.18.2
+pandas==2.2.3
+geopandas==1.0.1
+rasterio==1.4.3
