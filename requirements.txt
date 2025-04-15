@@ -1,0 +1,6 @@
+xarray
+rioxarray
+pandas
+geopandas
+# hvplot
+richdem
